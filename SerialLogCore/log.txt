@@ -1,0 +1,7 @@
+2020-07-16 18:37:18.458 -03:00 [INF] Evento Salvo
+2020-07-16 18:42:19.104 -03:00 [INF] Objeto : Evento
+ Ação: Save
+2020-07-16 18:52:05.470 -03:00 [INF] Objeto : Evento
+ Ação: Save
+2020-07-16 19:53:27.448 -03:00 [INF] Objeto : Evento
+ Ação: Save

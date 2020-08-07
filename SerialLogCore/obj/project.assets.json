@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\squadra\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Google Drive\\Projetos\\SerialLog\\SerialLogCore\\SerialLogCore\\SerialLogCore.csproj",
+      "projectName": "SerialLogCore",
+      "projectPath": "D:\\Google Drive\\Projetos\\SerialLog\\SerialLogCore\\SerialLogCore\\SerialLogCore.csproj",
+      "outputPath": "D:\\Google Drive\\Projetos\\SerialLog\\SerialLogCore\\SerialLogCore\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}

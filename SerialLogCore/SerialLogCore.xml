@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SerialLogCore</name>
+    </assembly>
+    <members>
+        <member name="T:SerialLogCore.Business.EventBusiness">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SerialLogCore.Business.EventBusiness.Instance">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SerialLogCore.Business.EventBusiness.Save(SerialLogCore.Models.EventModel)">
+            <summary>
+            
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
